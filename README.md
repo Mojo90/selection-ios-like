@@ -20,6 +20,7 @@ I have searched for that but didn't find a quick solution so I did it on my own.
  iOS
 
 <img src="https://raw.githubusercontent.com/Mojo90/selection-ios-like/master/screenshots/iOS1.png" width="235" height="417"/>&nbsp;
+<img src="https://raw.githubusercontent.com/Mojo90/selection-ios-like/master/screenshots/iOS2.png" width="235" height="417"/>&nbsp;
 
 ## 3. Usage
 
