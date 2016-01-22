@@ -174,6 +174,8 @@ function selectioniOSLike(array, headerText) {
   		div.style.height = "100%";
   		div.style.position = "fixed";
   		div.style.backgroundColor = "rgba(0,0,0,0.3)";
+  		div.style.top = "0";
+  		div.style.left = "0";
 		div.onclick = dismissModalView;
 		div.style.opacity = 0;
 		var deviceHeight = $(window).height();
@@ -183,6 +185,7 @@ function selectioniOSLike(array, headerText) {
 		div2.style.position = "relative";
 		div2.style.width = "100%";
 		div2.style.paddingLeft = "15px";
+		div2.style.left = "0";
 		div2.style.top = deviceHeight + "px";
 		div2.innerHTML = string;
 		
