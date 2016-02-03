@@ -1,5 +1,6 @@
 /* 
- * 
+ * selection-ios-like v1.0 | (c) 2016 DevelApp | http://develapp.me | MIT License
+ *
  * Usage:
  *
  * selectioniOSLike(array, headerText);
