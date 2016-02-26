@@ -1,4 +1,4 @@
-# iOS like Selection Pop-Up for Mobile/Web-Apps
+# iOS like Selection Pop-Up (Action Sheet) for Mobile/Web-Apps
 by [Moritz Pfeiffer](https://www.xing.com/profile/Moritz_Pfeiffer9)
 
 ## 0. Index
